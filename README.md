@@ -23,11 +23,8 @@ sudo apt install python3-venv
 ### Criar uma venv:
 ```bash
 python3 -m venv python3-venv
-``` 
-
-### Agora ative a Venv:
-```bash
 source python3-venv/bin/activate
+>deactivate para desativar a venv
 ``` 
 
 ### Entre no diretório
