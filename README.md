@@ -1,4 +1,4 @@
-## Installation
+## Instalação
 
 ### Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
 
@@ -9,7 +9,7 @@ chmod +x install.sh
 ./install.sh 
 ```
 
-### Usage
+### Uso
 ```bash
 python3 seeker.py -h
 ```
