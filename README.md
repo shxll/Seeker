@@ -10,23 +10,31 @@ chmod +x install.sh *
 ```
 
 ### Usage
-
-- python3 seeker.py -h
-
+```bash
+python3 seeker.py -h
+```
 ### Melhor forma de usar ferramenta 
 
 ### Cria uma python venv:
-- sudo apt install python3-venv
+```bash
+sudo apt install python3-venv
+```
 
 ### Criar uma venv:
-- python3 -m venv python3-venv (esse será o nome da virtual environments)
+```bash
+python3 -m venv python3-venv
+``` 
 
 ### Agora ative a Venv:
-- source python3-venv/bin/activate
+```bash
+source python3-venv/bin/activate
+``` 
 
 ### Entre no diretório
-- cd seeker/
-- python3 seeker.py
+```bash
+cd seeker/
+python3 seeker.py
+```
 
 ### Interface
 # SEEKER
