@@ -1,5 +1,5 @@
 ## Installation
-- [] git clone https://github.com/shxll/finalrecon.git
+- [] git clone https://github.com/shxll/seeker.git
 
 
 ### Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
