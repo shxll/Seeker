@@ -3,10 +3,10 @@
 ### Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
 
 ```bash
-git clone https://github.com/shxll/seeker.git *.
-cd seeker/ **
-chmod +x install.sh *
-./install.sh **
+git clone https://github.com/shxll/seeker.git
+cd seeker/ 
+chmod +x install.sh 
+./install.sh 
 ```
 
 ### Usage
