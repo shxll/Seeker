@@ -1,33 +1,33 @@
 ## Installation
 
-# Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
+### Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
 
 - git clone https://github.com/shxll/seeker.git
 - cd seeker/
 - chmod +x install.sh
 - ./install.sh
 
-# Usage
+### Usage
 
 - python3 seeker.py -h
 
-# Melhor forma de usar ferramenta 
+### Melhor forma de usar ferramenta 
 
-# Cria uma python venv:
+### Cria uma python venv:
 - sudo apt install python3-venv
 
-# Criar uma venv:
+### Criar uma venv:
 - python3 -m venv python3-venv (esse será o nome da virtual environments)
 
-# Agora ative a Venv:
+### Agora ative a Venv:
 - source python3-venv/bin/activate
 
-# Entre no diretório
+### Entre no diretório
 - cd seeker/
 - python3 seeker.py
 
-# Interface
-######  SEEKER
+### Interface
+# SEEKER
 
 1. [!] Select a Template :
 
@@ -41,6 +41,6 @@
 9. [7] Custom Link Preview
 10.[>] 
 
-# BOM PROVEITO!
+### BOM PROVEITO!
 
 
