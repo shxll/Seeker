@@ -7,7 +7,7 @@
 - chmod +x install.sh
 - ./install.sh
 
-## Usage
+# Usage
 
 - python3 seeker.py -h
 
@@ -27,23 +27,26 @@
 - python3 seeker.py
 
 # Interface
-______  ____   ____  |  | __  ____ _______
-/  ___/_/ __ \_/ __ \ |  |/ /_/ __ \\_  __ \
-\___ \ \  ___/\  ___/ |    < \  ___/ |  | \/
-/____  > \___  >\___  >|__|_ \ \___  >|__|
-     \/      \/     \/      \/     \/
 
--[!] Select a Template :
+.______  ____   ____  |  | __  ____ _______
+./  ___/_/ __ \_/ __ \ |  |/ /_/ __ \\_  __ \
+.\___ \ \  ___/\  ___/ |    < \  ___/ |  | \/
+./____  > \___  >\___  >|__|_ \ \___  >|__|
+.     \/      \/     \/      \/     \/
 
-- [0] NearYou
-- [1] Google Drive
-- [2] WhatsApp
-- [3] WhatsApp Redirect
-- [4] Telegram
-- [5] Zoom
-- [6] Google ReCaptcha
-- [7] Custom Link Preview
-- [>] 
+
+
+1. [!] Select a Template :
+
+2. [0] NearYou
+3. [1] Google Drive
+4. [2] WhatsApp
+5. [3] WhatsApp Redirect
+6. [4] Telegram
+7. [5] Zoom
+8. [6] Google ReCaptcha
+9. [7] Custom Link Preview
+10.[>] 
 
 # BOM PROVEITO!
 
