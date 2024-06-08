@@ -49,7 +49,7 @@ python3 seeker.py
 7. [5] Zoom
 8. [6] Google ReCaptcha
 9. [7] Custom Link Preview
-10.[>] 
+10. [>] 
 
 ### BOM PROVEITO!
 
