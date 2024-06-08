@@ -54,3 +54,9 @@ python3 seeker.py
 ### BOM PROVEITO!
 
 
+chave pix caso queira contribuir:
+```bash
+sharllans2@gmail.com
+```
+### Nome: Sharllan Paulino.
+### Picpay.
