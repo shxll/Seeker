@@ -2,7 +2,7 @@
 
 # Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
 
-- git clone https://github.com/thewhiteh4t/seeker.git
+- git clone https://github.com/shxll/seeker.git
 - cd seeker/
 - chmod +x install.sh
 - ./install.sh
@@ -27,14 +27,7 @@
 - python3 seeker.py
 
 # Interface
-
-                        __
-  ______  ____   ____  |  | __  ____ _______
- /  ___/_/ __ \_/ __ \ |  |/ /_/ __ \\_  __ \
- \___ \ \  ___/\  ___/ |    < \  ___/ |  | \/
-/____  > \___  >\___  >|__|_ \ \___  >|__|
-     \/      \/     \/      \/     \/'''
-
+######  SEEKER
 
 1. [!] Select a Template :
 
