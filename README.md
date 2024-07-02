@@ -1,3 +1,28 @@
+O conceito por trás do Seeker é simples, assim como hospedamos páginas de phishing para obter credenciais, por que não hospedar uma página falsa que solicita sua localização, como muitos sites populares baseados em localização. O Seeker hospeda um site falso que pede permissão de localização e, se o alvo permitir, nós pode obter :
+
+ Longitude
+ Latitude
+ Precisão
+ Altitude - Nem sempre disponível
+ Direção - Disponível apenas se o usuário estiver em movimento
+ Velocidade - Disponível apenas se o usuário estiver em movimento
+
+Junto com as informações de localização, também obtemos informações do dispositivo sem quaisquer permissões:
+
+ ID exclusivo usando impressão digital em tela
+ Modelo do dispositivo – nem sempre disponível
+ Sistema operacional
+ Plataforma
+ Número de núcleos de CPU – resultados aproximados
+ Quantidade de RAM - Resultados Aproximados
+ Resolução da tela
+ Informações da GPU
+ Nome e versão do navegador
+ Endereço IP público
+ Endereço IP local
+ Porto local
+
+O reconhecimento automático de endereço IP é executado após o recebimento das informações acima.
 ## Instalação
 
 ### Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
