@@ -28,8 +28,8 @@ O reconhecimento automático de endereço IP é executado após o recebimento da
 ### Kali Linux / Ubuntu / Termux
 
 ```bash
-git clone https://github.com/shxll/seeker.git
-cd seeker/ 
+git clone https://github.com/shxll/Seeker.git
+cd Seeker/ 
 chmod +x install.sh 
 ./install.sh 
 ```
@@ -55,7 +55,7 @@ source python3-venv/bin/activate
 
 ### Entre no diretório
 ```bash
-cd seeker/
+cd Seeker/
 python3 seeker.py
 # problema de permissão ou dependência rode no root do terminal
 sudo su
