@@ -25,7 +25,7 @@ Junto com as informações de localização, também obtemos informações do di
 O reconhecimento automático de endereço IP é executado após o recebimento das informações acima.
 ## Instalação
 
-### Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
+### Kali Linux / Ubuntu / Termux
 
 ```bash
 git clone https://github.com/shxll/seeker.git
