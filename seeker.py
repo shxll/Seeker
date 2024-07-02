@@ -121,6 +121,10 @@ def banner():
 /____  > \___  >\___  >|__|_ \ \___  >|__|
      \/      \/     \/      \/     \/'''
 	utils.print(f'{G}{art}{W}\n')
+	utils.print(f'{G}[>] {C}Created By   : {W}SHXLL')
+	utils.print(f'{G} |---> {C}Twitter   : {W}{twitter_url}')
+	utils.print(f'{G} |---> {C}Community : {W}{comms_url}')
+	utils.print(f'{G}[>] {C}Version      : {W}{VERSION}\n')
 
 
 def send_webhook(content, msg_type):
