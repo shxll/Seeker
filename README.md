@@ -36,7 +36,8 @@ chmod +x install.sh
 
 ### Uso
 ```bash
-python3 seeker.py -h
+python3 seeker.py
+# problema com depência ou permissão rode no root do terminal.
 ```
 ### Melhor forma de usar ferramenta 
 
@@ -56,22 +57,16 @@ source python3-venv/bin/activate
 ```bash
 cd seeker/
 python3 seeker.py
+# problema de permissão ou dependência rode no root do terminal
+sudo su
+# senha do root
+python3 seeker.py
 ```
 
 ### Interface
-# SEEKER
-
-1. [!] Select a Template :
-
-2. [0] NearYou
-3. [1] Google Drive
-4. [2] WhatsApp
-5. [3] WhatsApp Redirect
-6. [4] Telegram
-7. [5] Zoom
-8. [6] Google ReCaptcha
-9. [7] Custom Link Preview
-10. [>] 
+<p align = "center">
+  <img src = "https://raw.githubusercontent.com/shxll/Seeker/main/Image/seeker.png">
+</p>
 
 ### BOM PROVEITO!
 
