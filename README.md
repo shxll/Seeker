@@ -28,6 +28,7 @@ O reconhecimento automático de endereço IP é executado após o recebimento da
 ### Kali Linux / Ubuntu / Termux
 
 ```bash
+sudo apt install git
 git clone https://github.com/shxll/Seeker.git
 cd Seeker/ 
 chmod +x install.sh 
